@@ -2,7 +2,7 @@
 
 Facebook Vidio Downloader
 
-Install 
+How to Install ?
 
 
 
@@ -23,6 +23,14 @@ How Tu Use ?
 
 Copy your link want to download and put on this in tools
 
-And save file 
-Ex : myvideo
+
+Ex :
+
+Chouse your Resolution 
+And
+Put your Link: https://www.facebook.com/101085804902014/videos/509167913088819/?app=fbl
+
+Outputname: myvideo
 Do not use .mp4
+
+Thanks to ezcoder
